@@ -1,13 +1,7 @@
-__author__ = "Deogracias Aaron P. Dela Cruz"
-__copyright__ = "Copyright 2007, The Cogent Project"
-__credits__ = ["Rob Knight", "Peter Maxwell", "Gavin Huttley",
- "Matthew Wakefield"]
-__license__ = "GPL"
-__version__ = "1.0.1"
-__maintainer__ = "Rob Knight"
-__email__ = "rob@spot.colorado.edu"
-__status__ = "Production"
-
+__author__ = "Deogracias Aaron Dela Cruz"
+__version__ = "1.0.0"
+__maintainer__ = "Deogracias Aaron Dela Cruz"
+__email__ = "deograciasaaron@gmail.com"
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
