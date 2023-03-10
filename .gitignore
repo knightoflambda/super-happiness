@@ -1,0 +1,4 @@
+data/*.tmp
+data/*.xlsx
+data/*.db
+__pycache__
